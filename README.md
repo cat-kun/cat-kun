@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://raw.githubusercontent.com/cat-kun/cat-kun/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/cat-kun/cat-kun/master/assets/github-contribution-grid-snake.svg)
 
 <!--
 **cat-kun/cat-kun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
